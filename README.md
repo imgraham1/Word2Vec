@@ -1,2 +1,4 @@
 # Word2Vec
-Implementing word2vec from scratch
+This code implements the word2vec algorithm completely from scratch using Python. 
+<br><br>
+
